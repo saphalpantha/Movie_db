@@ -1,0 +1,18 @@
+.btn{
+    background-color: rgb(7, 61, 53);
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    border: none;
+    font-size: 2rem;
+}
+
+.btn:hover{
+    background-color: blueviolet;
+
+}
+
+.btn:active{
+    background-color: rgb(111, 1, 126);
+}
+
